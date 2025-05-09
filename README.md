@@ -1,1 +1,2 @@
 # Analyzing-Agriculture-Productivity-week2
+This Power BI report titled "Analyzing Agricultural Productivity" provides insights into crop yield trends, state-wise performance, and the impact of factors like rainfall and input usage. It includes two dashboards—an overview of productivity and a deeper analysis of drivers and patterns—using interactive visuals like maps, line charts, scatter plots, and decomposition trees to support data-driven agricultural decisions.
